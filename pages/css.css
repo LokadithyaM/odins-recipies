@@ -1,0 +1,36 @@
+img{
+    height: 100px;
+    width: auto;
+    border: 2px solid black;
+}
+.box1{ 
+    border:2px solid black;
+    font-size: 44;
+    padding: 100px;
+}
+.box2{
+    padding: 20px;
+    border: 2px solid black;
+}
+.image{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 40px;
+}
+.space{
+    padding: 20px;
+}
+.space2{
+    padding: 10px;
+}
+.space3{
+    padding: 10px;
+}
+.box3{
+    border: 2px solid black;
+    height: 500px;
+    width: 500px;
+}
+*{
+    margin: 5px;
+}
